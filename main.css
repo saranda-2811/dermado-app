@@ -1,0 +1,23 @@
+*{
+    font-family: 'montserrat', sans-serif;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    background-color: rgb(37, 35, 35);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+#content {
+    border-radius: 30px;
+    text-align: center;
+    padding: 40px;
+    width: 70%;
+    background: linear-gradient(180deg, #CF4D24 0%, #FF7058 100%);
+}
